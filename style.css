@@ -45,3 +45,9 @@ input[type="number"] {
   font-size: 18px;
   color: #007700;
 }
+.form-container input,
+.form-container button {
+  display: block;
+  margin: 10px auto;
+}
+
